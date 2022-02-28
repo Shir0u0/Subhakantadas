@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subhakantadas
+- 👋 Hi, I’m Subhakanta Das.
 - 👀 I’m interested in programming .🤖
 - 🌱 I’m currently learning C .
 - ❤️ Love to watch animes .
